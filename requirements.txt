@@ -1,0 +1,6 @@
+streamlit
+CSVLoader
+Chroma
+FastEmbedEmbeddings
+OllamaLLM
+RetrievalQA
